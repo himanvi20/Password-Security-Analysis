@@ -32,5 +32,4 @@ Attack Method
 
 ## Repository Contents
  The final, comprehensive report detailing the password analysis, results, best practices, and research on attack vectors.
-* **task_6.pdf**: Original assignment sheet/mini-guide.
-*
+
